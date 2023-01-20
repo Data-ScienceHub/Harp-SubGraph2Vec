@@ -1,6 +1,7 @@
 # Harp-SubGraph2Vec
 
 https://github.com/DSC-SPIDAL/harp/blob/cpuSC/README.md
+
 https://github.com/DSC-SPIDAL/harp/blob/gpuSC/README.md
 
 
