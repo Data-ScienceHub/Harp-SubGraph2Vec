@@ -4,7 +4,7 @@ https://github.com/DSC-SPIDAL/harp/blob/cpuSC/README.md
 
 https://github.com/DSC-SPIDAL/harp/blob/gpuSC/README.md
 
-
+Tutorial: https://docs.google.com/presentation/d/1_YD4V_MCqGdR0Kdf9zvKbMk9e5BfJUm5g7yU3xiRf4Y/edit#slide=id.g65691398db_0_49
 
 
 # The experiments for the followings and attached the results;
