@@ -30,12 +30,12 @@ Memory: 1G
 
 ### Graph500  Scale=20 - u3-1.fascia
 
+*The format "mimo" cannot fit Fascia*
 
 
 ### Graph500  Scale=20 - u5-2.fascia
 
-
-
+*The format "mimo" cannot fit Fascia*
 
 
 
