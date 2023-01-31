@@ -40,6 +40,21 @@ Memory: 1G
 
 
 
+### hpylo.graph   template.graph
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/41974269/215904122-7aeb9a65-f1ca-4f94-91c9-13fa5baf2a47.png">
+
+```
+Read in Data Time:
+	 0.000216 seconds
+Computation Time InnerParal Mode:
+	 0.011630 seconds
+Count:
+	5.970082e+07
+Total time:
+	 0.012407 seconds
+   
+```
+
 
 
 
