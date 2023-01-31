@@ -3,7 +3,7 @@
 
 ## Hardware & Software
 
-Two instances of AWS
+**Two instances of AWS**
 
 
 
