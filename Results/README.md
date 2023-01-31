@@ -1,4 +1,4 @@
-# MPI in 2 CPU nodes
+# MPI in Cluster of 2 CPU nodes
 
 
 ## Hardware & Software
