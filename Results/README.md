@@ -32,12 +32,15 @@ Memory: 1G
 
 *The format "mimo" cannot fit Fascia*
 
+	
+	
 
 ### Graph500  Scale=20 - u5-2.fascia
 
 *The format "mimo" cannot fit Fascia*
 
-
+	
+	
 
 
 ### hpylo.graph   template.graph
