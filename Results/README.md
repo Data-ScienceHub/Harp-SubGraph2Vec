@@ -61,7 +61,7 @@ Total time:
 
 
 
-# MPI in Cluster of 2 CPU nodes
+# Harp-SubGraph2Vec - MPI in Cluster of 2 CPU nodes
 
 
 ## Hardware & Software
@@ -136,4 +136,35 @@ Final count is 6.956204e+17
 ```
 
 
+
+# Harp-SubGraph2Vec in Single CPU node
+
+## Hardware & Software
+
+**One instance of AWS**
+
+
+
+Instance Type: t2.micro
+
+Model Name: Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz
+
+Operating System: Ubuntu 22.04.1 LTS
+
+Count of vCPU: 1
+
+Memory: 1G
+
+
+
+
+
+## Results
+
+
+
+
+### Graph500  Scale=20 - u3-1.fascia
+
+*Out of Memory*
 
