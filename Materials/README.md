@@ -40,6 +40,7 @@ Then count the number of colorful template embeddings -> **CNT_colorful**
 
 **CNT_estimate = CNT_colorful / P**
 
+![image](https://user-images.githubusercontent.com/41974269/216795869-d173509f-2bbe-4da1-964b-da258ad96311.png)
 
 
 
