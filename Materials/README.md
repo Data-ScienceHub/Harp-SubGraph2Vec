@@ -2,7 +2,9 @@
 
 
 
-# Background
+# Introduction
+
+## Background
 
 
 
@@ -14,7 +16,7 @@ Induced subgraph of a graph is another graph, formed from a subset of the vertic
 
 
 
-# Color-coding Algorithm
+## Color-coding Algorithm
 
 1.
 
@@ -42,7 +44,14 @@ Then count the number of colorful template embeddings -> **CNT_colorful**
 
 
 
+## Contributions
 
+optimizations for approximation algorithms based on color-coding
+
+* shared-memory and distributed-memory parallelization
+* reduce overhead in the inner loops of the algorithm
+* simple template partitioning method for subgraph counting.
+* data structure to reduce communication and memory costs  in distributed environment
 
 
 
