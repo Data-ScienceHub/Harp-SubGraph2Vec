@@ -1,6 +1,6 @@
 
 
-
+# **FASCIA**
 
 # Introduction
 
@@ -104,6 +104,7 @@ subtemplate: **S_i**		size = **h**
 
 **color set** is mapping: h unique color -> each vertex in S_i
 
+![image](https://user-images.githubusercontent.com/41974269/217124889-584fc9b6-6428-49a5-9301-710dd707eb07.png)
 
 
 
