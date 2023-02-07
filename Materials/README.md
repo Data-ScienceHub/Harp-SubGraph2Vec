@@ -42,7 +42,7 @@ Then count the number of colorful template embeddings -> **CNT_colorful**
 
 **CNT_estimate = CNT_colorful / P**
 
-![image](https://user-images.githubusercontent.com/41974269/216795869-d173509f-2bbe-4da1-964b-da258ad96311.png)
+<img src="https://user-images.githubusercontent.com/41974269/216795869-d173509f-2bbe-4da1-964b-da258ad96311.png" alt="image" style="zoom:50%;" />
 
 
 ## Contributions
@@ -104,10 +104,61 @@ subtemplate: **S_i**		size = **h**
 
 **color set** is mapping: h unique color -> each vertex in S_i
 
-![image](https://user-images.githubusercontent.com/41974269/217124889-584fc9b6-6428-49a5-9301-710dd707eb07.png)
+<img src="https://user-images.githubusercontent.com/41974269/217124889-584fc9b6-6428-49a5-9301-710dd707eb07.png" alt="image" style="zoom:50%;" />
+
+all possible color sets C
+
+split C into Ca and Cp (Ca and Cp have totally different colors)
+
+Each possibility of combination of Ca and Cp has **table[a_i] [v] [C_a] * table[p_i] [u] [C_p]** counts of colorful templates
+
+
+
+## Color-coding Optimization
+
+combinatorial index system
+
+careful memory management
+
+partitioning the input template
+
+
+
+### Combinatorial indexing system
 
 
 
 
 
+
+
+
+
+### Memory utilization optimizations
+
+
+
+### Template partitioning
+
+
+
+## Shared-memory parallelism
+
+OpenMP
+
+two modes -> depended on size of graph and template size
+
+if size large:
+
+
+
+if size small:
+
+
+
+
+
+
+
+## Distributed memory parallelism
 
