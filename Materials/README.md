@@ -56,3 +56,57 @@ optimizations for approximation algorithms based on color-coding
 
 
 
+# Implementations for color-coding
+
+
+
+##  Subgraph counting with FASCIA
+
+1. template partitioning
+2. random coloring
+3. dynamic programming count 
+
+
+
+### Template Partitioning
+
+**Cut** input template recursively to **sub templates**.
+
+Each cut would produce two childs.
+
+
+
+A **partitioning tree** would be formed in this process.
+
+This tree can be traced from the bottom up to the original template   
+
+=> **Dynamic Programming** phase of the color coding algorithm.
+
+
+
+### Randomly Colored
+
+K colors
+
+**Trade off:** 
+
+higher K, 
+
+then	  decrease the required iterations
+
+but		increases memory requirements
+
+
+
+### Dynamic Programming Count
+
+subtemplate: **S_i**		size = **h**
+
+**color set** is mapping: h unique color -> each vertex in S_i
+
+
+
+
+
+
+
